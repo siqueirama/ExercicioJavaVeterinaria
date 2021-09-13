@@ -5,7 +5,7 @@ import lombok.Data;
 import java.time.LocalDate ;
 
 @Data
-public class AnimalProprietario extends Animal{
+public class AnimalProprietario{// extends Animal{
 
     private String cpfProprietario;
     private String nomeProprietario;
@@ -17,8 +17,7 @@ public class AnimalProprietario extends Animal{
 
 
 
-    public AnimalProprietario( int numeroDoPaciente,String cpfProprietario, String nomeProprietario, String sobrenomeProprietario, LocalDate dataNascimentoProprietario, String endereco, long telefone) {
-        super(numeroDoPaciente);
+    public AnimalProprietario(String cpfProprietario, String nomeProprietario, String sobrenomeProprietario, LocalDate dataNascimentoProprietario, String endereco, long telefone) {
 
         this.cpfProprietario = cpfProprietario;
         this.nomeProprietario = nomeProprietario;
@@ -27,5 +26,10 @@ public class AnimalProprietario extends Animal{
         this.endereco = endereco;
         this.telefone = telefone;
 
+    }
+
+    @Override
+    public String toString() {
+        return cpfProprietario +" "+ nomeProprietario +" " + sobrenomeProprietario +" " + dataNascimentoProprietario +" " + endereco +" " + telefone;
     }
 }

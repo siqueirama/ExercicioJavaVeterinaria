@@ -8,7 +8,7 @@ import java.util.List;
 
 @Data
 public class Animal {
-    private int numeroDoPaciente;
+    private Integer numeroDoPaciente;
     private String especie;
     private String raca;
     private String cor;
@@ -28,6 +28,33 @@ public class Animal {
         this.numeroDoPaciente = numeroDoPaciente;
     }
 
+    public Integer getNumeroDoPaciente() {
+        return numeroDoPaciente;
+    }
+
+    public String getEspecie() {
+        return especie;
+    }
+
+    public String getRaca() {
+        return raca;
+    }
+
+    public String getCor() {
+        return cor;
+    }
+
+    public LocalDate getDataDeNascimento() {
+        return dataDeNascimento;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public List<Animal> getAnimals() {
+        return animals;
+    }
 
     List<Animal> animals = new ArrayList<>();
 
