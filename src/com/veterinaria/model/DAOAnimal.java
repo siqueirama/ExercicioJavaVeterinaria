@@ -3,8 +3,8 @@ package com.veterinaria.model;
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public class DAOAnimal implements Persistivel<Animal> {
@@ -26,7 +26,7 @@ public class DAOAnimal implements Persistivel<Animal> {
        String registro = animal.getNumeroDoPaciente()+";" + animal.getEspecie()+";" + animal.getRaca()+";" + animal.getCor()+";" + animal.getDataDeNascimento()+";" + animal.getNome();
         try {
             arquivoUtil.escreve(registro);
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -34,7 +34,12 @@ public class DAOAnimal implements Persistivel<Animal> {
     @Override
     public void salva(List<Animal> lista) {
         lista.forEach( animal -> salva(animal));
-    //    arquivoUtil.fechaArquivo();
+
+      try{
+          arquivoUtil.fechaArquivo();
+      } catch (Exception e) {
+          e.printStackTrace();
+      }
     }
 
     @Override
@@ -57,6 +62,8 @@ public class DAOAnimal implements Persistivel<Animal> {
             return null;
         }
     }
+
+
 
     private Animal converte(String registro) {
         String[] campos = registro.split(";");
