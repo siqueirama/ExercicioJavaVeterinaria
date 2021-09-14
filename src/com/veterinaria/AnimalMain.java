@@ -2,6 +2,7 @@ package com.veterinaria;
 
 import com.veterinaria.model.Animal;
 import com.veterinaria.model.DAOAnimal;
+import com.veterinaria.model.DAOmedico;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
