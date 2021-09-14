@@ -16,6 +16,7 @@ public class Cosulta extends Medico{
 
 
     public Cosulta (LocalDateTime dataHora, String motivo, String diagnostico, String tratamento) {
+        super();
         this.dataHora = dataHora;
         this.motivo = motivo;
         this.diagnostico = diagnostico;
