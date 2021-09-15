@@ -3,11 +3,12 @@ package com.veterinaria;
 import com.veterinaria.model.DAOmedico;
 import com.veterinaria.model.Medico;
 
+import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class MedicoMain {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
 
           Medico medico1 = new Medico("41423423495", "rogerio", "silva", 12345, "neuro" );
           Medico medico2 = new Medico("41423655495", "carlos", "santos", 23456, "ocular" );
@@ -22,5 +23,6 @@ public class MedicoMain {
 
         DAOmedico daOmedico = new DAOmedico("medicos.txt");
         daOmedico.salva(listaMedico);
+
     }
 }

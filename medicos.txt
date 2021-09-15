@@ -1,4 +1,4 @@
-41423423495;rogerio;silva;12345;neuro
-41423655495;carlos;santos;23456;ocular
-51423423495;vagner;valdes;34567;cirurgiao
-71423423495;hugo;silva;45678;oftalmo
+414.234.234-95;rogerio;silva;12345;neuro
+414.236.554-95;carlos;santos;23456;ocular
+514.234.234-95;vagner;valdes;34567;cirurgiao
+714.234.234-95;hugo;silva;45678;oftalmo
