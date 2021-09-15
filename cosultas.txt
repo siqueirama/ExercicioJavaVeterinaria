@@ -1,6 +1,0 @@
-------- Consulta------ 
-Horário 2021-09-14T22:21:29.478253Motivo DorDiagnóstico bacteriaTratamento cortar perna
- ---- Paciente ----- 
-1234 cachorro dog preto 2021-09-14 carlos
------Médico----
-323232 hugo victor 4043232 cahorro

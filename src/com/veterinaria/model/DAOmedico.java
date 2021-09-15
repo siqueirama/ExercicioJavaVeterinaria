@@ -2,6 +2,7 @@ package com.veterinaria.model;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.ParseException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -52,7 +53,12 @@ public class DAOmedico implements Persistivel<Medico> {
         try {
             List<String> registros = this.arquivoUtil.retornaRegistros();
             registros.forEach(registro -> {
-                Medico medicoConvertido = converte(registro);
+                Medico medicoConvertido = null;
+                try {
+                    medicoConvertido = converte(registro);
+                } catch (ParseException e) {
+                    e.printStackTrace();
+                }
                 animaisExistentes.add(medicoConvertido);
             });
             return animaisExistentes;
@@ -64,7 +70,7 @@ public class DAOmedico implements Persistivel<Medico> {
 
 
 
-    private Medico converte(String registro) {
+    private Medico converte(String registro) throws ParseException {
         String[] campos = registro.split(";");
         Medico medico = new Medico(campos[0], campos[1], campos[2], (Integer.parseInt(campos[3])), campos[4]);
         return medico;

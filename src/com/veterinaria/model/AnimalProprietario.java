@@ -3,6 +3,8 @@ package com.veterinaria.model;
 
 import lombok.Data;
 
+import javax.swing.text.MaskFormatter;
+import java.text.ParseException;
 import java.time.LocalDate;
 
 @Data
@@ -20,9 +22,9 @@ public class AnimalProprietario{// extends Animal{
 
 
     public AnimalProprietario(String cpfProprietario, String nomeProprietario, String sobrenomeProprietario, LocalDate dataNascimentoProprietario, String endereco, Integer
-            telefone) {
+            telefone) throws ParseException {
 
-        this.cpfProprietario = cpfProprietario;
+        this.cpfProprietario = formatarCpf(cpfProprietario);
         this.nomeProprietario = nomeProprietario;
         this.sobrenomeProprietario = sobrenomeProprietario;
         this.dataNascimentoProprietario = dataNascimentoProprietario;
@@ -31,6 +33,13 @@ public class AnimalProprietario{// extends Animal{
 
 
     }
+
+    public String formatarCpf(String cpf) throws ParseException {
+        MaskFormatter mf = new MaskFormatter("###.###.###-##");
+        mf.setValueContainsLiteralCharacters(false);
+        return mf.valueToString(cpf);
+    }
+
 
     public AnimalProprietario() {
 
