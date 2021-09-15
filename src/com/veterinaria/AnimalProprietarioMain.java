@@ -3,6 +3,7 @@ package com.veterinaria;
 import com.veterinaria.model.AnimalProprietario;
 import com.veterinaria.model.DAOAnimalProprietario;
 
+import java.text.ParseException;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -14,7 +15,7 @@ public class AnimalProprietarioMain {
     public AnimalProprietarioMain(String s, String jose, String silva, LocalDate now, String s1, int i) {
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
 
         AnimalProprietario animalProprietario = new AnimalProprietario("78945612312","Jose", "Silva", LocalDate.now(), "rua 13", 987456321);
         AnimalProprietario animalProprietario1 = new AnimalProprietario("14745612456","Joao", "Souza", LocalDate.now(), "rua 15", 897456328);

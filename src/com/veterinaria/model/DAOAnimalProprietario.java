@@ -2,6 +2,7 @@ package com.veterinaria.model;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.ParseException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -52,7 +53,12 @@ public class DAOAnimalProprietario implements Persistivel<AnimalProprietario>{
         try {
             List<String> registros = this.arquivoUtil.retornaRegistros();
             registros.forEach(registro -> {
-                AnimalProprietario animalProprietarioConvertido = converte(registro);
+                AnimalProprietario animalProprietarioConvertido = null;
+                try {
+                    animalProprietarioConvertido = converte(registro);
+                } catch (ParseException e) {
+                    e.printStackTrace();
+                }
                 proprietarioExistentes.add(animalProprietarioConvertido);
             });
             return proprietarioExistentes;
@@ -62,7 +68,7 @@ public class DAOAnimalProprietario implements Persistivel<AnimalProprietario>{
         }
     }
 
-    private AnimalProprietario converte(String registro) {
+    private AnimalProprietario converte(String registro) throws ParseException {
         String[] campos = registro.split(";");
         AnimalProprietario animalProprietario = new AnimalProprietario((campos[0]), campos[1], campos[2], LocalDate.parse(campos[3]), campos[4], Integer.valueOf(campos[5]));
         return animalProprietario;
