@@ -60,7 +60,20 @@ public class Animal {
 
     @Override
     public String toString() {
-        return numeroDoPaciente +" " + especie +" " + raca + " " + cor + " " + dataDeNascimento +" " + nome ;
+        return
+                "numeroDoPaciente :" + numeroDoPaciente +
+                ", especie :" + especie  +
+                ", raca: " + raca  +
+                ", cor: " + cor  +
+                ", dataDeNascimento: " + dataDeNascimento +
+                ", nome: " + nome
+
+                ;
     }
+
+    //    @Override
+//    public String toString() {
+//        return numeroDoPaciente +" " + especie +" " + raca + " " + cor + " " + dataDeNascimento +" " + nome ;
+//    }
 }
 

@@ -34,6 +34,6 @@ public class Medico {
 
     @Override
     public String toString() {
-        return cpfMedico +" " + nomeMedico + " " + sobrenomeMedico + " " + numeroRegistro + " "+ especielidade;
+        return "cpfMedico: " + this.cpfMedico + ", nomeMedico: " + this.nomeMedico + ", sobrenomeMedico: " + this.sobrenomeMedico + ", numeroRegistro: " + this.numeroRegistro + ", especielidade: " + this.especielidade;
     }
 }

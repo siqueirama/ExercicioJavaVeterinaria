@@ -22,8 +22,8 @@ public class DAOcosulta implements Persistivel<Cosulta> {
 
     @Override
     public void salva(Cosulta cosulta) {
-        String registro = "------- Consulta------ "+"\n"+ "Horário "+cosulta.getDataHora()+"Motivo " + cosulta.getMotivo()+"Diagnóstico "
-                + cosulta.getDiagnostico()+"Tratamento " + cosulta.getTratamento()+"\n"+" ---- Paciente ----- " +"\n" + cosulta.getAnimal()+"\n"+"-----Médico----"+"\n" +cosulta.getMedico();
+        String registro = "------- Consulta------ "+"\n"+ "Horário: "+cosulta.getDataHora()+", Motivo: " + cosulta.getMotivo()+", Diagnóstico: "
+                + cosulta.getDiagnostico()+", Tratamento: " + cosulta.getTratamento()+"\n"+" ---- Paciente ----- " +"\n" + cosulta.getAnimal().toString()+"\n"+"-----Médico----"+"\n" +cosulta.getMedico().toString()+"\n";
 
         try {
             arquivoUtil.escreve(registro);
