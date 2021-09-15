@@ -23,7 +23,9 @@ public class DAOAnimalProprietario implements Persistivel<AnimalProprietario>{
 
     @Override
     public void salva(AnimalProprietario animalProprietario) {
-        String registro = animalProprietario.getCpfProprietario()+";"+animalProprietario.getNomeProprietario()+";"+animalProprietario.getSobrenomeProprietario()+";"+animalProprietario.getDataNascimentoProprietario()+";"+animalProprietario.getEndereco()+";"+animalProprietario.getTelefone();
+        String registro ="-------- Proprietário ------"+"\n"+ animalProprietario.getCpfProprietario()+";"+animalProprietario.getNomeProprietario()+";"+
+                animalProprietario.getSobrenomeProprietario()+";"+animalProprietario.getDataNascimentoProprietario()+";"+
+                animalProprietario.getEndereco()+";"+animalProprietario.getTelefone()+"\n"+"Animais do Proprietario"+"\n"+animalProprietario.getAnimal().toString()+"\n";
         try {
             arquivoUtil.escreve(registro);
         } catch (Exception e) {
@@ -70,7 +72,7 @@ public class DAOAnimalProprietario implements Persistivel<AnimalProprietario>{
 
     private AnimalProprietario converte(String registro) throws ParseException {
         String[] campos = registro.split(";");
-        AnimalProprietario animalProprietario = new AnimalProprietario((campos[0]), campos[1], campos[2], LocalDate.parse(campos[3]), campos[4], Integer.valueOf(campos[5]));
+        AnimalProprietario animalProprietario = new AnimalProprietario((campos[0]), campos[1], campos[2], LocalDate.parse(campos[3]), campos[4], campos[5], campos[6]);
         return animalProprietario;
     }
 }

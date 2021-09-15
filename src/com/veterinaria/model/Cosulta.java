@@ -2,6 +2,7 @@ package com.veterinaria.model;
 
 import lombok.Data;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Data
@@ -28,6 +29,13 @@ public class Cosulta {
 
     @Override
     public String toString() {
-        return "Consulta" + this.dataHora + ", "+ this.motivo + ", "+ this.diagnostico +", "+ this.tratamento +"" + "Dados Médicos" + this.medico + this.animal;
+        return
+                "Data da Consulta: " + dataHora +
+                ", motivo: " + motivo +
+                ", diagnostico: " + diagnostico +
+                ", tratamento: " + tratamento + "\n" +
+                "medico associado: " + medico + "\n" +
+                "animal associado: " + animal
+                ;
     }
-    }
+}

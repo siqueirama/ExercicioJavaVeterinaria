@@ -2,6 +2,7 @@ package com.veterinaria.model;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -68,7 +69,7 @@ public class DAOcosulta implements Persistivel<Cosulta> {
 
     private Cosulta converte(String registro) {
         String[] campos = registro.split(";");
-        Cosulta cosulta = new Cosulta((LocalDateTime.parse(campos[0])), campos[1], campos[2], campos[3], campos[4], campos[5]);
+        Cosulta cosulta = new Cosulta(LocalDateTime.parse(campos[0]), campos[1], campos[2], campos[3], campos[4], campos[5]);
         return cosulta;
     }
 

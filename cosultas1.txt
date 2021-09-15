@@ -1,0 +1,1877 @@
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205789, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205822, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205830, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205838, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205843, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:09:33.205850, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582500, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582525, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582533, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582541, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582546, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:20:33.582553, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778901, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778933, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778942, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778950, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778955, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:21:28.778962, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.309975, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.310016, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.310025, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.310034, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.310039, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:29:22.310046, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958651, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958679, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958688, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958696, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958702, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:32:09.958709, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813336, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813389, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813403, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813417, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813426, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T17:47:48.813438, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420044, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420069, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420077, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420086, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420091, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T18:03:42.420098, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2222-05-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-25, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-20, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-21, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-22, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-23, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-24, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-14, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T05:12, Motivo: Dor, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-15T04:57, Motivo: Dor Forte, Diagnóstico: Infeccao, Tratamento: Analgesico
+ ---- Paciente ----- 
+numeroDoPaciente :123, especie :cachorro, raca: fila, cor: preto, dataDeNascimento: 2021-09-15, nome: thor
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-13T02:03, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-12T12:05, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
+------- Consulta------ 
+Horário: 2021-09-11T02:12, Motivo: Dor estomacal, Diagnóstico: Verme, Tratamento: Vacina de Verme
+ ---- Paciente ----- 
+numeroDoPaciente :789, especie :cavalo, raca: alazão, cor: marrom, dataDeNascimento: 2021-09-15, nome: gruth
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-15T14:12, Motivo: Dores na teta, Diagnóstico: Infeccao, Tratamento: Aplicacao de massagem
+ ---- Paciente ----- 
+numeroDoPaciente :741, especie :vaca, raca: nelori, cor: branca, dataDeNascimento: 2021-09-15, nome: mimosa
+-----Médico----
+cpfMedico: 41423655495, nomeMedico: carlos, sobrenomeMedico: santos, numeroRegistro: 23456, especielidade: AnimalDomestico
+
+------- Consulta------ 
+Horário: 2021-09-11T04:06, Motivo: febre, Diagnóstico: Bacteria, Tratamento: Remedio na veia
+ ---- Paciente ----- 
+numeroDoPaciente :456, especie :gato, raca: siames, cor: cinza, dataDeNascimento: 2021-09-15, nome: aranha
+-----Médico----
+cpfMedico: 41423423495, nomeMedico: rogerio, sobrenomeMedico: silva, numeroRegistro: 12345, especielidade: AnimalFazenda
+
