@@ -9,10 +9,10 @@ public class Medico {
     private String cpfMedico;
     private String nomeMedico;
     private String sobrenomeMedico;
-    private long numeroRegistro;
+    private Integer numeroRegistro;
     private String especielidade;
 
-    public Medico(String cpfMedico, String nomeMedico, String sobrenomeMedico, long numeroRegistro, String especielidade) {
+    public Medico(String cpfMedico, String nomeMedico, String sobrenomeMedico, Integer numeroRegistro, String especielidade) {
         this.cpfMedico = cpfMedico;
         this.nomeMedico = nomeMedico;
         this.sobrenomeMedico = sobrenomeMedico;

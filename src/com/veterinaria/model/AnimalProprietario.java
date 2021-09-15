@@ -18,6 +18,7 @@ public class AnimalProprietario{// extends Animal{
 
 
 
+
     public AnimalProprietario(String cpfProprietario, String nomeProprietario, String sobrenomeProprietario, LocalDate dataNascimentoProprietario, String endereco, Integer
             telefone) {
 
@@ -27,6 +28,7 @@ public class AnimalProprietario{// extends Animal{
         this.dataNascimentoProprietario = dataNascimentoProprietario;
         this.endereco = endereco;
         this.telefone = telefone;
+
 
     }
 
